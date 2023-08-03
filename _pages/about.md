@@ -25,7 +25,10 @@ My research interest includes numerical algorithm, multiscale modeling.
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 I have my own academic personal homepage. Welcome!
+- *2023.08*: &nbsp;🎉🎉
+  I have my own academic personal homepage. Welcome!
+- *2022.06*: &nbsp;🎉🎉
+  The great J.Y. Hua arrived at Nanjing.
 
 # 📝 Publications 
 
@@ -43,7 +46,7 @@ My research interest includes numerical algorithm, multiscale modeling.
 - *1999.06 - 2005.09*, Child, barbaric growth.
 - *before 1999.06*, Baby, antenatal training.
 
-# 💬 Invited Talks
+# 💬 Talks
 - *by now*, Still none.
 
 # 💻 Internships
