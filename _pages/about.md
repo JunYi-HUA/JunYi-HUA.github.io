@@ -32,6 +32,9 @@ My research interest includes numerical algorithm, multiscale modeling.
 
 # 📝 Publications 
 [1] Y.L. Bian, Q. Liu, Z.D. Feng, **J.Y. Hua**, H.L. Xie, S. Chen, Y. Cai*, X.H. Yao*, S.N. Luo, High-speed penetration dynamics of polycarbonate, Int. J. Mech. Sci. (2022) 107250.
+[2] **J.Y. Hua**, Q. Liu, H. Yang, Y.F. Xu, S. Chen, Z.Y. Zhong, N.B. Zhang, Y.Y. Wang, L. Xiao, L. Lu*, Y. Cai*, S.N. Luo, High-speed penetration of cast Mg-6Gd-3Y-0.5Zr alloy: Experiments and modeling, Int. J. Mech. Sci. 241 (2023) 107942.
+[3] Q. Liu, **J.Y. Hua**, Y.F. Xu, K. Yang, J.C. Cheng, N.B. Zhang, C. Li*, Y. Cai*, S.N. Luo, Ballistic penetration of high-entropy CrMnFeCoNi alloy: Experiments and modeling, Int. J. Mech. Sci. 249 (2023) 108252.
+[4] Y.D. Chen, **J.Y. Hua**, D. Fan, Q. Liu, Y.G. Lu, T. Liu*, Y. Cai, High-speed projectile perforation of nickel-based Inconel 718 superalloy plates: Experiments and modeling, Thin-Walled Struct. 192 (2023) 111181.
 
 # 🎖 Honors and Awards
 - *by now*, Still none.
