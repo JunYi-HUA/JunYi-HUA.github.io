@@ -31,7 +31,7 @@ My research interest includes numerical algorithm, multiscale modeling.
   The great J.Y. Hua arrived at Nanjing.
 
 # 📝 Publications 
-
+[1] Y.L. Bian, Q. Liu, Z.D. Feng, **J.Y. Hua**, H.L. Xie, S. Chen, Y. Cai*, X.H. Yao*, S.N. Luo, High-speed penetration dynamics of polycarbonate, Int. J. Mech. Sci. (2022) 107250.
 
 # 🎖 Honors and Awards
 - *by now*, Still none.
