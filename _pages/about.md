@@ -31,10 +31,11 @@ My research interest includes numerical algorithm, multiscale modeling.
   The great J.Y. Hua arrived at Nanjing.
 
 # 📝 Publications 
-[1] Y.L. Bian, Q. Liu, Z.D. Feng, **J.Y. Hua**, H.L. Xie, S. Chen, Y. Cai*, X.H. Yao*, S.N. Luo, High-speed penetration dynamics of polycarbonate, Int. J. Mech. Sci. (2022) 107250.
-[2] **J.Y. Hua**, Q. Liu, H. Yang, Y.F. Xu, S. Chen, Z.Y. Zhong, N.B. Zhang, Y.Y. Wang, L. Xiao, L. Lu*, Y. Cai*, S.N. Luo, High-speed penetration of cast Mg-6Gd-3Y-0.5Zr alloy: Experiments and modeling, Int. J. Mech. Sci. 241 (2023) 107942.
-[3] Q. Liu, **J.Y. Hua**, Y.F. Xu, K. Yang, J.C. Cheng, N.B. Zhang, C. Li*, Y. Cai*, S.N. Luo, Ballistic penetration of high-entropy CrMnFeCoNi alloy: Experiments and modeling, Int. J. Mech. Sci. 249 (2023) 108252.
-[4] Y.D. Chen, **J.Y. Hua**, D. Fan, Q. Liu, Y.G. Lu, T. Liu*, Y. Cai, High-speed projectile perforation of nickel-based Inconel 718 superalloy plates: Experiments and modeling, Thin-Walled Struct. 192 (2023) 111181.
+[1] Y.L. Bian, Q. Liu, Z.D. Feng, **J.Y. Hua**, H.L. Xie, S. Chen, Y. Cai*, X.H. Yao*, S.N. Luo, High-speed penetration dynamics of polycarbonate, Int. J. Mech. Sci. (2022) 107250. \
+[2] **J.Y. Hua**, Q. Liu, H. Yang, Y.F. Xu, S. Chen, Z.Y. Zhong, N.B. Zhang, Y.Y. Wang, L. Xiao, L. Lu*, Y. Cai*, S.N. Luo, High-speed penetration of cast Mg-6Gd-3Y-0.5Zr alloy: Experiments and modeling, Int. J. Mech. Sci. 241 (2023) 107942. \
+[3] Q. Liu, **J.Y. Hua**, Y.F. Xu, K. Yang, J.C. Cheng, N.B. Zhang, C. Li*, Y. Cai*, S.N. Luo, Ballistic penetration of high-entropy CrMnFeCoNi alloy: Experiments and modeling, Int. J. Mech. Sci. 249 (2023) 108252. \
+[4] Y.D. Chen, **J.Y. Hua**, D. Fan, Q. Liu, Y.G. Lu, T. Liu*, Y. Cai, High-speed projectile perforation of nickel-based Inconel 718 superalloy plates: Experiments and modeling, Thin-Walled Struct. 192 (2023) 111181. \
+[5] C. Li, J. Chen, Y. Cai, X.J. Zhao, **J.Y. Hua**, J. Wu, N.B. Zhang*, S.N. Luo, {332}<113> twinning in a $\beta$-type Ti-Nb alloy over a wide range of strain rates, Mater. Sci. Eng. A. 890 (2024) 145992. \
 
 # 🎖 Honors and Awards
 - *by now*, Still none.
